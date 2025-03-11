@@ -1,0 +1,322 @@
+[
+  {
+    "Evento": "Royal Rumble (1988)",
+    "Fecha": "24 de enero de 1988",
+    "Ciudad": "Hamilton, Ontario, Canadá",
+    "Coliseo/Arena": "Copps Coliseum",
+    "Ganador": "Jim Duggan",
+    "Nº de Entrada": 13
+  },
+  {
+    "Evento": "Royal Rumble (1989)",
+    "Fecha": "15 de enero de 1989",
+    "Ciudad": "Houston, Texas",
+    "Coliseo/Arena": "The Summit",
+    "Ganador": "Big John Studd",
+    "Nº de Entrada": 27
+  },
+  {
+    "Evento": "Royal Rumble (1990)",
+    "Fecha": "21 de enero de 1990",
+    "Ciudad": "Orlando, Florida",
+    "Coliseo/Arena": "Orlando Arena",
+    "Ganador": "Hulk Hogan",
+    "Nº de Entrada": 25
+  },
+  {
+    "Evento": "Royal Rumble (1991)",
+    "Fecha": "19 de enero de 1991",
+    "Ciudad": "Miami, Florida",
+    "Coliseo/Arena": "Miami Arena",
+    "Ganador": "Hulk Hogan",
+    "Nº de Entrada": 24
+  },
+  {
+    "Evento": "Royal Rumble (1992)",
+    "Fecha": "19 de enero de 1992",
+    "Ciudad": "Albany, Nueva York",
+    "Coliseo/Arena": "Knickerbocker Arena",
+    "Ganador": "Ric Flair",
+    "Nº de Entrada": 36
+  },
+  {
+    "Evento": "Royal Rumble (1993)",
+    "Fecha": "24 de enero de 1993",
+    "Ciudad": "Sacramento, California",
+    "Coliseo/Arena": "ARCO Arena",
+    "Ganador": "Yokozuna",
+    "Nº de Entrada": 27
+  },
+  {
+    "Evento": "Royal Rumble (1994)",
+    "Fecha": "22 de enero de 1994",
+    "Ciudad": "Providence, Rhode Island",
+    "Coliseo/Arena": "Providence Civic Center",
+    "Ganador": "Bret Hart",
+    "Nº de Entrada": 27
+  },
+  {
+    "Evento": "Royal Rumble (1994)",
+    "Fecha": "22 de enero de 1994",
+    "Ciudad": "Providence, Rhode Island",
+    "Coliseo/Arena": "Providence Civic Center",
+    "Ganador": "Lex Luger",
+    "Nº de Entrada": 23
+  },
+  {
+    "Evento": "Royal Rumble (1995)",
+    "Fecha": "22 de enero de 1995",
+    "Ciudad": "Tampa, Florida",
+    "Coliseo/Arena": "USF Sun Dome",
+    "Ganador": "Shawn Michaels",
+    "Nº de Entrada": 1
+  },
+  {
+    "Evento": "Royal Rumble (1996)",
+    "Fecha": "21 de enero de 1996",
+    "Ciudad": "Fresno, California",
+    "Coliseo/Arena": "Selland Arena",
+    "Ganador": "Shawn Michaels",
+    "Nº de Entrada": 18
+  },
+  {
+    "Evento": "Royal Rumble (1997)",
+    "Fecha": "19 de enero de 1997",
+    "Ciudad": "San Antonio, Texas",
+    "Coliseo/Arena": "Alamodome",
+    "Ganador": "Stone Cold Steve Austin",
+    "Nº de Entrada": 5
+  },
+  {
+    "Evento": "Royal Rumble (1998)",
+    "Fecha": "18 de enero de 1998",
+    "Ciudad": "San Jose, California",
+    "Coliseo/Arena": "San Jose Arena",
+    "Ganador": "Stone Cold Steve Austin",
+    "Nº de Entrada": 24
+  },
+  {
+    "Evento": "Royal Rumble (1999)",
+    "Fecha": "24 de enero de 1999",
+    "Ciudad": "Anaheim, California",
+    "Coliseo/Arena": "Arrowhead Pond of Anaheim",
+    "Ganador": "Vince McMahon",
+    "Nº de Entrada": 2
+  },
+  {
+    "Evento": "Royal Rumble (2000)",
+    "Fecha": "23 de enero de 2000",
+    "Ciudad": "Ciudad de Nueva York, Nueva York",
+    "Coliseo/Arena": "Madison Square Garden",
+    "Ganador": "The Rock",
+    "Nº de Entrada": 24
+  },
+  {
+    "Evento": "Royal Rumble (2001)",
+    "Fecha": "21 de enero de 2001",
+    "Ciudad": "Nueva Orleans, Luisiana",
+    "Coliseo/Arena": "New Orleans Arena",
+    "Ganador": "Stone Cold Steve Austin",
+    "Nº de Entrada": 27
+  },
+  {
+    "Evento": "Royal Rumble (2002)",
+    "Fecha": "20 de enero de 2002",
+    "Ciudad": "Atlanta, Georgia",
+    "Coliseo/Arena": "Philips Arena",
+    "Ganador": "Triple H",
+    "Nº de Entrada": 22
+  },
+  {
+    "Evento": "Royal Rumble (2003)",
+    "Fecha": "19 de enero de 2003",
+    "Ciudad": "Boston, Massachusetts",
+    "Coliseo/Arena": "FleetCenter",
+    "Ganador": "Brock Lesnar",
+    "Nº de Entrada": 29
+  },
+  {
+    "Evento": "Royal Rumble (2004)",
+    "Fecha": "25 de enero de 2004",
+    "Ciudad": "Filadelfia, Pensilvania",
+    "Coliseo/Arena": "Wachovia Center",
+    "Ganador": "Chris Benoit",
+    "Nº de Entrada": 1
+  },
+  {
+    "Evento": "Royal Rumble (2005)",
+    "Fecha": "30 de enero de 2005",
+    "Ciudad": "Fresno, California",
+    "Coliseo/Arena": "Save Mart Center",
+    "Ganador": "Batista",
+    "Nº de Entrada": 28
+  },
+  {
+    "Evento": "Royal Rumble (2006)",
+    "Fecha": "29 de enero de 2006",
+    "Ciudad": "Miami, Florida",
+    "Coliseo/Arena": "American Airlines Arena",
+    "Ganador": "Rey Mysterio",
+    "Nº de Entrada": 2
+  },
+  {
+    "Evento": "Royal Rumble (2007)",
+    "Fecha": "28 de enero de 2007",
+    "Ciudad": "San Antonio, Texas",
+    "Coliseo/Arena": "AT&T Center",
+    "Ganador": "The Undertaker",
+    "Nº de Entrada": 30
+  },
+  {
+    "Evento": "Royal Rumble (2008)",
+    "Fecha": "27 de enero de 2008",
+    "Ciudad": "Ciudad de Nueva York, Nueva York",
+    "Coliseo/Arena": "Madison Square Garden",
+    "Ganador": "John Cena",
+    "Nº de Entrada": 30
+  },
+  {
+    "Evento": "Royal Rumble (2009)",
+    "Fecha": "25 de enero de 2009",
+    "Ciudad": "Detroit, Míchigan",
+    "Coliseo/Arena": "Joe Louis Arena",
+    "Ganador": "Randy Orton",
+    "Nº de Entrada": 8
+  },
+  {
+    "Evento": "Royal Rumble (2010)",
+    "Fecha": "31 de enero de 2010",
+    "Ciudad": "Atlanta, Georgia",
+    "Coliseo/Arena": "Philips Arena",
+    "Ganador": "Edge",
+    "Nº de Entrada": 29
+  },
+  {
+    "Evento": "Royal Rumble (2011)",
+    "Fecha": "30 de enero de 2011",
+    "Ciudad": "Boston, Massachusetts",
+    "Coliseo/Arena": "TD Garden",
+    "Ganador": "Alberto del Río",
+    "Nº de Entrada": 38
+  },
+  {
+    "Evento": "Royal Rumble (2012)",
+    "Fecha": "29 de enero de 2012",
+    "Ciudad": "San Luis, Misuri",
+    "Coliseo/Arena": "Scottrade Center",
+    "Ganador": "Sheamus",
+    "Nº de Entrada": 22
+  },
+  {
+    "Evento": "Royal Rumble (2013)",
+    "Fecha": "27 de enero de 2013",
+    "Ciudad": "Phoenix, Arizona",
+    "Coliseo/Arena": "US Airways Center",
+    "Ganador": "John Cena",
+    "Nº de Entrada": 19
+  },
+  {
+    "Evento": "Royal Rumble (2014)",
+    "Fecha": "26 de enero de 2014",
+    "Ciudad": "Pittsburgh, Pensilvania",
+    "Coliseo/Arena": "Consol Energy Center",
+    "Ganador": "Batista",
+    "Nº de Entrada": 28
+  },
+  {
+    "Evento": "Royal Rumble (2015)",
+    "Fecha": "25 de enero de 2015",
+    "Ciudad": "Filadelfia, Pensilvania",
+    "Coliseo/Arena": "Wells Fargo Center",
+    "Ganador": "Roman Reigns",
+    "Nº de Entrada": 19
+  },
+  {
+    "Evento": "Royal Rumble (2016)",
+    "Fecha": "24 de enero de 2016",
+    "Ciudad": "Orlando, Florida",
+    "Coliseo/Arena": "Amway Center",
+    "Ganador": "Triple H",
+    "Nº de Entrada": 30
+  },
+  {
+    "Evento": "Royal Rumble (2017)",
+    "Fecha": "29 de enero de 2017",
+    "Ciudad": "San Antonio, Texas",
+    "Coliseo/Arena": "Alamodome",
+    "Ganador": "Randy Orton",
+    "Nº de Entrada": 23
+  },
+  {
+    "Evento": "Royal Rumble (2018)",
+    "Fecha": "28 de enero de 2018",
+    "Ciudad": "Filadelfia, Pensilvania",
+    "Coliseo/Arena": "Wells Fargo Center",
+    "Ganador": "Shinsuke Nakamura",
+    "Nº de Entrada": 14
+  },
+  {
+    "Evento": "WWE Greatest Royal Rumble",
+    "Fecha": "27 de abril de 2018",
+    "Ciudad": "Yeda, Arabia Saudita",
+    "Coliseo/Arena": "King Abdullah Sports City Stadium",
+    "Ganador": "Braun Strowman",
+    "Nº de Entrada": 41
+  },
+  {
+    "Evento": "Royal Rumble (2019)",
+    "Fecha": "27 de enero de 2019",
+    "Ciudad": "Phoenix, Arizona",
+    "Coliseo/Arena": "Chase Field",
+    "Ganador": "Seth Rollins",
+    "Nº de Entrada": 10
+  },
+  {
+    "Evento": "Royal Rumble (2020)",
+    "Fecha": "26 de enero de 2020",
+    "Ciudad": "Houston, Texas",
+    "Coliseo/Arena": "Minute Maid Park",
+    "Ganador": "Drew McIntyre",
+    "Nº de Entrada": 16
+  },
+  {
+    "Evento": "Royal Rumble (2021)",
+    "Fecha": "31 de enero de 2021",
+    "Ciudad": "St. Petersburg, Florida",
+    "Coliseo/Arena": "WWE ThunderDome at Tropicana Field",
+    "Ganador": "Edge",
+    "Nº de Entrada": 1
+  },
+  {
+    "Evento": "Royal Rumble (2022)",
+    "Fecha": "29 de enero de 2022",
+    "Ciudad": "San Luis, Misuri",
+    "Coliseo/Arena": "The Dome at America's Center",
+    "Ganador": "Brock Lesnar",
+    "Nº de Entrada": 30
+  },
+  {
+    "Evento": "Royal Rumble (2023)",
+    "Fecha": "28 de enero de 2023",
+    "Ciudad": "San Antonio, Texas",
+    "Coliseo/Arena": "Alamodome",
+    "Ganador": "Cody Rhodes",
+    "Nº de Entrada": 30
+  },
+    {
+    "Evento": "Royal Rumble (2024)",
+    "Fecha": "27 de enero de 2024",
+    "Ciudad": "Tampa, Florida",
+    "Coliseo/Arena": "Tropicana Field",
+    "Ganador": "Cody Rhodes",
+    "Nº de Entrada": 15
+  },
+  {
+    "Evento": "Royal Rumble (2025)",
+    "Fecha": "1 de febrero del 2025",
+    "Ciudad": "Indianápolis, Indiana",
+    "Coliseo/Arena": "Lucas Oil Stadium",
+    "Ganador": "Jey Uso",
+    "Nº de Entrada": 20
+  }
+]
